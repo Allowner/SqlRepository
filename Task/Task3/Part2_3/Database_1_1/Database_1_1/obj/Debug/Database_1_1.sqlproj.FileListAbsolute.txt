@@ -1,0 +1,5 @@
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_1\Database_1_1\bin\Debug\Database_1_1.dacpac
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_1\Database_1_1\bin\Debug\Database_1_1.dll
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_1\Database_1_1\bin\Debug\Database_1_1.pdb
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_1\Database_1_1\obj\Debug\Database_1_1.dll
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_1\Database_1_1\obj\Debug\Database_1_1.pdb

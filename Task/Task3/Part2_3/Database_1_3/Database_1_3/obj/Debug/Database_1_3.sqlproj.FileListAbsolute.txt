@@ -1,0 +1,6 @@
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_3\Database_1_3\bin\Debug\Database_1_3.dacpac
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_3\Database_1_3\bin\Debug\Database_1_3.dll
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_3\Database_1_3\bin\Debug\Database_1_3.pdb
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_3\Database_1_3\obj\Debug\Database_1_3.dll
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_3\Database_1_3\obj\Debug\Database_1_3.pdb
+C:\Users\Usevalad_Hardziyenka\source\repos\Database_1_3\Database_1_3\obj\Debug\Database_1_3.sqlprojAssemblyReference.cache

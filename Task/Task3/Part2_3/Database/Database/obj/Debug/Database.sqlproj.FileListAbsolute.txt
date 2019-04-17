@@ -1,0 +1,6 @@
+C:\Users\Usevalad_Hardziyenka\source\repos\Database\Database\bin\Debug\Database.dacpac
+C:\Users\Usevalad_Hardziyenka\source\repos\Database\Database\bin\Debug\Database.dll
+C:\Users\Usevalad_Hardziyenka\source\repos\Database\Database\bin\Debug\Database.pdb
+C:\Users\Usevalad_Hardziyenka\source\repos\Database\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\Usevalad_Hardziyenka\source\repos\Database\Database\obj\Debug\Database.dll
+C:\Users\Usevalad_Hardziyenka\source\repos\Database\Database\obj\Debug\Database.pdb

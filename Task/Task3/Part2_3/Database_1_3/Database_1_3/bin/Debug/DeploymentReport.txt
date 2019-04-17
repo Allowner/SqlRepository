@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[FK_Territories_Region] (Foreign Key)
+     Alter
+       [dbo].[Customers] (Table)
+     Create
+       [dbo].[__RefactorLog] (Table)
+       [dbo].[Regions] (Table)
+       [dbo].[FK_Territories_Region] (Foreign Key)
+       [dbo].[__RefactorLog].[microsoft_database_tools_support] (Extended Property)
+
+** Supporting actions
+     Refresh
+       [dbo].[Customer and Suppliers by City] (View)
+       [dbo].[Invoices] (View)
+       [dbo].[Orders Qry] (View)
+       [dbo].[Quarterly Orders] (View)
+       [dbo].[Sales Totals by Amount] (View)
+       [dbo].[CustOrderHist] (Procedure)
